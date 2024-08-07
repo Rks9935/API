@@ -1,0 +1,54 @@
+{
+  "Trips": [
+    {
+      "Trip1": {
+        "CC": 34,
+        "ACC": 50,
+        "Lane_Keep": 40
+      }
+    },
+    {
+      "Trip2": {
+        "CC": 34,
+        "ACC": 40,
+        "Lane_Keep": 40
+      }
+    },
+    {
+      "Trip3": {
+        "CC": 34,
+        "ACC": 40,
+        "Lane_Keep": 40
+      }
+    },
+    {
+      "Trip4": {
+        "CC": 55,
+        "ACC": 45,
+        "Lane_Keep": 23
+      }
+    },
+    {
+      "Trip5": {
+        "CC": 60,
+        "ACC": 60,
+        "Lane_Keep": 50
+      }
+    },
+    {
+      "Trip6": {
+        "CC": 76,
+        "ACC": 60,
+        "Lane_Keep": 50
+      }
+    },
+    {
+      "Trip7": {
+        "CC": 70,
+        "ACC": 60,
+        "Lane_Keep": 50
+      }
+    }
+  ] 
+}
+
